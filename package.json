@@ -42,9 +42,6 @@
     "react": "^16.2.0"
   },
   "standard": {
-    "parser": "babel-eslint",
-    "ignore": [
-      "dist"
-    ]
+    "parser": "babel-eslint"
   }
 }
