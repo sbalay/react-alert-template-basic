@@ -12,7 +12,5 @@ coverage
 node_modules/
 
 # Misc
-dist
-.npmignore
 .DS_Store
 
