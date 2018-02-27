@@ -112,7 +112,7 @@ var AlertTemplate = function AlertTemplate(_ref) {
     options.type === 'error' && React.createElement(ErrorIcon, null),
     React.createElement(
       'span',
-      { style: { flex: 2 } },
+      { style: { flex: 2, color: 'white' } },
       message
     ),
     React.createElement(
